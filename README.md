@@ -101,6 +101,81 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ## Paper Roadmap (Chronological Order):
 
+### Grounding Relations (visual relationship detection, VRD)
+1. Cewu Lu, Ranjay Krishna, Michael Bernstein, Li Fei-Fei. **Visual Relationship Detection with Language Priors**. [[Paper]](https://arxiv.org/pdf/1608.00187v1)
+
+2. ﻿Bryan A. Plummer, Arun Mallya, Christopher M. Cervantes, Julia Hockenmaier, Svetlana Lazebnik. **Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues**. [[paper]](https://arxiv.org/pdf/1611.06641v4)
+
+3. Sibei Yang, Guanbin Li, and Yizhou Yu. **Relationship-Embedded Representation Learning for Grounding Referring Expressions.**. [[Paper]](https://arxiv.org/pdf/1906.04464))
+
+4. Xiaodan Liang, Lisa Lee, Eric P. Xing. **Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection**. [[paper]](https://arxiv.org/pdf/1703.03054v1)
+
+5. Bohan Zhuang, Lingqiao Liu, Chunhua Shen, Ian Reid. **Towards Context-Aware Interaction Recognition for Visual Relationship Detection**. [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhuang_Towards_Context-Aware_Interaction_ICCV_2017_paper.pdf) [[code]](https://bitbucket.org/jingruixiaozhuang/iccv2017_vrd)
+
+6. Kongming Liang, Yuhong Guo, Hong Chang, Xilin Chen. **Visual relationship detection with deep structural ranking**. [[paper]](https://www.semanticscholar.org/paper/Visual-Relationship-Detection-With-Deep-Structural-Liang-Guo/1e2dc024df38a8c6f691e3b8501f94d7019ab0db?p2df) [[code]](https://github.com/GriffinLiang/vrd-dsr)
+
+7. Yikang Li, Wanli Ouyang, Bolei Zhou, Jianping Shi, Chao Zhang, Xiaogang Wang. **Factorizable Net: An Efficient Subgraph-based Framework for Scene Graph Generation**. [[paper]](https://arxiv.org/pdf/1806.11538v2) [[code]](https://github.com/yikang-li/FactorizableNet)
+
+8. Hedi Ben-Younes, Rémi Cadene, Nicolas Thome, Matthieu Cord. **BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detectio**. [[paper]](https://arxiv.org/pdf/1902.00038v2) [[code]](https://github.com/Cadene/block.bootstrap.pytorch)
+
+9. Alina Kuznetsova, Hassan Rom, Neil Alldrin, Jasper Uijlings, Ivan Krasin, Jordi Pont-Tuset, Shahab Kamali, Stefan Popov, Matteo Malloci, Alexander Kolesnikov, Tom Duerig, Vittorio Ferrari. **The Open Images Dataset V4: Unified image classification, object detection, and visual relationship detection at scale**. [[paper]](https://arxiv.org/pdf/1811.00982v2) [[code]](https://github.com/ccc013/DeepLearning_Notes)
+
+10. Nikolaos Gkanatsios, Vassilis Pitsikalis, Petros Koutras, Athanasia Zlatintsi, Petros Maragos. **Deeply Supervised Multimodal Attentional Translation Embeddings for Visual Relationship Detection**. [[paper]](https://arxiv.org/pdf/1902.05829v1.pdf) [[code]](https://bitbucket.org/deeplabai/vrd)
+
+11. Ji Zhang, Kevin J. Shih, Ahmed Elgammal, Andrew Tao, Bryan Catanzaro. **Graphical Contrastive Losses for Scene Graph Parsing**. [[paper]](https://arxiv.org/pdf/1903.02728v5.pdf) [[code]](https://github.com/dmlc/dgl/tree/master/examples/mxnet/scenegraph) [[code]](https://github.com/microsoft/scene_graph_benchmark) [[code]](https://github.com/mcg-nju/trace)
+
+12. Jaewon Jung, Jongyoul Park. **Visual Relationship Detection with Language prior and Softmax**. [[paper]](https://arxiv.org/pdf/1904.07798v1.pdf) [[code]](https://github.com/Jungjaewon/Visual-Relationship-Detection)
+
+13. Sahand Sharifzadeh, Sina Moayed Baharlou, Max Berrendorf, Rajat Koner, Volker Tresp. **Improving Visual Relation Detection using Depth Maps**. [[paper]](https://arxiv.org/pdf/1905.00966v4.pdf) [[code]](https://github.com/Sina-Baharlou/Depth-VRD)
+
+14. Ivan Donadello, Luciano Serafini. **Compensating Supervision Incompleteness with Prior Knowledge in Semantic Image Interpretation**. [[paper]](https://arxiv.org/pdf/1910.00462v1.pdf) [[code]](https://github.com/logictensornetworks/logictensornetworks)
+
+15. Hao Zhou, Chongyang Zhang, Chuanping Hu. **Visual Relationship Detection with Relative Location Mining**. [[paper]](https://arxiv.org/pdf/1911.00713v1.pdf) [[code]](https://github.com/zhouhaocv/RLM-Net)
+
+16. Cong Yuren, Hanno Ackermann, Wentong Liao, Michael Ying Yang, Bodo Rosenhahn. **NODIS: Neural Ordinary Differential Scene Understanding**. [[paper]](https://arxiv.org/pdf/2001.04735v3.pdf) [[code]](https://github.com/yrcong/NODIS)
+
+17. Jianming Lv, Qinzhe Xiao, Jiajie Zhong. **AVR: Attention based Salient Visual Relationship Detection**. [[paper]](https://arxiv.org/pdf/2003.07012v1.pdf) [[code]](https://github.com/xiaoqinzhe/vrdetection)
+
+18. Sherif Abdelkarim, Aniket Agarwal, Panos Achlioptas, Jun Chen, Jiaji Huang, Boyang Li, Kenneth Church, Mohamed Elhoseiny. **Exploring Long Tail Visual Relationship Recognition with Large Vocabulary**. [[paper]](https://arxiv.org/pdf/2004.00436v7.pdf) [[code]](https://github.com/Vision-CAIR/LTVRR)
+
+19. Federico Baldassarre, Kevin Smith, Josephine Sullivan, Hossein Azizpour. **Explanation-based Weakly-supervised Learning of Visual Relations with Graph Networks**. [[paper]](https://arxiv.org/pdf/2006.09562v1.pdf) [[code]](https://github.com/baldassarreFe/ws-vrd)
+
+20. Meng-Jiun Chiou, Roger Zimmermann, Jiashi Feng. **Visual Relationship Detection with Visual-Linguistic Knowledge from Multimodal Representations**. [[paper]](https://arxiv.org/pdf/2009.04965v3.pdf) [[code]](https://github.com/coldmanck/RVL-BERT)
+
+21. Andreas Schreiber. **Visualization of Contributions to Open-Source Projects**. [[paper]](https://arxiv.org/pdf/2010.08874v1.pdf) [[code]](https://github.com/onyame/Git2PROV)
+
+22. Kemal Oksuz, Baris Can Cam, Sinan Kalkan, Emre Akbas. **One Metric to Measure them All: Localisation Recall Precision (LRP) for Evaluating Visual Detection Tasks**. [[paper]](https://arxiv.org/pdf/2011.10772v3.pdf) [[code]](https://github.com/kemaloksuz/LRP-Error)
+
+23. Sai Praneeth Reddy Sunkesula, Rishabh Dabral, Ganesh Ramakrishnan. **LIGHTEN: Learning Interactions with Graph and Hierarchical TEmporal Networks for HOI in videos**. [[paper]](https://arxiv.org/pdf/2012.09402v1.pdf) [[code]](https://github.com/praneeth11009/LIGHTEN-Learning-Interactions-with-Graphs-and-Hierarchical-TEmporal-Networks-for-HOI)
+
+24. Markos Diomataris, Nikolaos Gkanatsios, Vassilis Pitsikalis, Petros Maragos. **Grounding Consistency: Distilling Spatial Common Sense for Precise Visual Relationship Detection**. [[paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Diomataris_Grounding_Consistency_Distilling_Spatial_Common_Sense_for_Precise_Visual_Relationship_ICCV_2021_paper.pdf) [[code]](https://github.com/deeplab-ai/grounding-consistent-vrd)
+
+25. Jun Chen, Aniket Agarwal, Sherif Abdelkarim, Deyao Zhu, Mohamed Elhoseiny. **RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition**. [[paper]](https://arxiv.org/pdf/2104.11934v2.pdf) [[code]](https://github.com/Vision-CAIR/RelTransformer)
+
+26. Meng-Jiun Chiou, Henghui Ding, Hanshu Yan, Changhu Wang, Roger Zimmermann, Jiashi Feng. **Recovering the Unbiased Scene Graphs from the Biased Ones**. [[paper]](https://arxiv.org/pdf/2107.02112v1.pdf) [[code]](https://github.com/coldmanck/recovering-unbiased-scene-graphs)
+
+27. Yuren Cong, Wentong Liao, Hanno Ackermann, Bodo Rosenhahn, Michael Ying Yang. **Spatial-Temporal Transformer for Dynamic Scene Graph Generation**. [[paper]](https://arxiv.org/pdf/2107.12309v2.pdf) [[code]](https://github.com/yrcong/sttran)
+
+28. Xiaotian Han, Jianwei Yang, Houdong Hu, Lei Zhang, Jianfeng Gao, Pengchuan Zhang. **Image Scene Graph Generation (SGG) Benchmark**. [[paper]](https://arxiv.org/pdf/2107.12604v1.pdf) [[code]](https://github.com/microsoft/scene_graph_benchmark)
+
+29. Jinyung Hong, Theodore P. Pavlic. **Representing Prior Knowledge Using Randomly, Weighted Feature Networks for Visual Relationship Detection**. [[paper]](https://arxiv.org/pdf/2111.10686v2.pdf) [[code]](https://github.com/pavliclab/aaai2022-clear2022-visual_relationship_detection-rwfn)
+
+30. Yuan YAO, Qianyu Chen, Ao Zhang, Wei Ji, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun. **PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models**. [[paper]](https://arxiv.org/pdf/2205.11169v2.pdf) [[code]](https://github.com/thunlp/pevl)
+
+31. Yue Hu, Siheng Chen, Xu Chen, Ya zhang, Xiao Gu. **Neural Message Passing for Visual Relationship Detection**. [[paper]](https://arxiv.org/pdf/2208.04165v1.pdf) [[code]](https://github.com/phyllish/nmp)
+
+32. Yang Li, Yucheng Tu, Xiaoxue Chen, Hao Zhao, Guyue Zhou. **Distance-Aware Occlusion Detection with Focused Attention**. [[paper]](https://arxiv.org/pdf/2208.11122v1.pdf) [[code]](https://github.com/yang-li-2000/distance-aware-occlusion-detection-with-focused-attention)
+
+33. Long Zhao, Liangzhe Yuan, Boqing Gong, Yin Cui, Florian Schroff, Ming-Hsuan Yang, Hartwig Adam, Ting Liu. **Unified Visual Relationship Detection with Vision and Language Models**. [[paper]](https://arxiv.org/pdf/2303.08998v2.pdf) [[code]](https://github.com/google-research/scenic)
+
+34. Palaash Agrawal, Haidi Azaman, Cheston Tan. **STUPD: A Synthetic Dataset for Spatial and Temporal Relation Reasoning**. [[paper]](https://arxiv.org/pdf/2309.06680v1.pdf) [[code]](https://github.com/palaashagrawal/stupd)
+
+35. Zacharias Anastasakis, Dimitrios Mallis, Markos Diomataris, George Alexandridis, Stefanos Kollias, Vassilis Pitsikalis. **Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction**. [[paper]](https://arxiv.org/pdf/2311.04834v1.pdf) [[code]](https://github.com/deeplab-ai/selfsupervisedvrd)
+
+36. Ala Shaabana, Zahra Gharaee, Paul Fieguth. **Video Relationship Detection Using Mixture of Experts**. [[paper]](https://arxiv.org/pdf/2403.03994v1.pdf) [[code]](https://github.com/shibshib/Moe-VRD)
+
+37. ﻿Tim Salzmann, Markus Ryll, Alex Bewley, and Matthias Minderer. **﻿Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection**. [[paper]](https://arxiv.org/pdf/2403.14270v1)
+
 ### Visual Grounding / Referring Expressions (Images):
 1. Karpathy, Andrej, Armand Joulin, and Li F. Fei-Fei. **Deep fragment embeddings for bidirectional image sentence mapping.** Advances in neural information processing systems. 2014. [[Paper]](http://papers.nips.cc/paper/5281-deep-fragment-embeddings-for-bidirectional-image-sentence-mapping.pdf)
 
